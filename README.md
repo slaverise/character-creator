@@ -1,6 +1,7 @@
 # Character Creation Workshop
 
-In this workshop, you'll build a Sims-style character creation screen.
+In this workshop, you'll build a Sims-style character creation screen. 
+
 
 
 ## Mockups
